@@ -1,0 +1,4 @@
+pynput==1.6.8
+pywin32==227
+Flask==1.1.2
+requests==2.24.0
